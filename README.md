@@ -1,7 +1,7 @@
 # Proyecto Storytelling (template): 
 
 Nombre del Equipo: 
-
+Grupo 6: Proyecto Mango
 Proyecto (código): 
 
 
@@ -11,10 +11,11 @@ Proyecto (código):
 ### Personaje
 
 ![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
+![FichaLexi](https://user-images.githubusercontent.com/101631234/160717274-a117680f-5244-4ecb-9165-a75af13e9f0b.png)
 
 Nombre: 
 
-
+LEXI
 ### Historia
 
 
