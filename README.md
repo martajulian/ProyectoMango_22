@@ -1,4 +1,4 @@
-# Proyecto Storytelling (template): 
+# Proyecto Storytelling (LEXI)
 
 Nombre del Equipo: 
 Grupo 6: Proyecto Mango
@@ -6,11 +6,10 @@ Proyecto (código):
 
 
 ## Resumen
-
+Una joven historiadora encuentra en un viaje con sus amigos una relequia que le podría otorgar el reconocimiento mundial que ha perseguido durante toda su carrera. La ambición, la mentira y la fama pondrán en peligro tanto a sus amigos como a ella misma.
 
 ### Personaje
 
-![](https://github.com/mgea/storytelling/blob/master/img-nobody.png)
 ![FichaLexi](https://user-images.githubusercontent.com/101631234/160717274-a117680f-5244-4ecb-9165-a75af13e9f0b.png)
 
 Nombre: 
@@ -45,9 +44,11 @@ Incluir lista de personas del grupo
 Se puede añadir enlace a página personal de github o lo que se quiera...(optativo)
 -->
 
-- :man: minombre
-- :woman: minombre
-- :woman: minombre 
+
+- :woman: Marta Julián
+- :man: Gonzalo Martínez
+- :woman: Ana Garrido
+- :man: Iván Cano
 
 <!---
 Lista completa de emojis de markDown - https://gist.github.com/rxaviers/7360908) 
